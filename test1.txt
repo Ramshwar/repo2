@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is DE65-A02D
+
+ Directory of C:\Users\ramr0\Desktop\Myproject
+
+02/11/2023  10:26 AM    <DIR>          .
+02/11/2023  10:24 AM    <DIR>          ..
+02/11/2023  10:26 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  193,096,937,472 bytes free
